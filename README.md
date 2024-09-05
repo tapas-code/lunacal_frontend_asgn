@@ -1,8 +1,41 @@
-# React + Vite
+# Lunacal Frontend Assignment
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is the frontend assignment for Lunacal, built using **Vite** and styled with **Tailwind CSS**.
 
-Currently, two official plugins are available:
+## Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Frontend**: Vite, React
+- **Styling**: Tailwind CSS
+
+## Features
+
+- Responsive design
+- Modern UI components
+- Efficient state management
+- Integration with backend services (if applicable)
+
+## Installation
+
+To set up the project locally, follow these steps:
+
+1. Clone the repository
+
+    ```bash
+    git clone https://github.com/tapas-code/lunacal_frontend_asgn.git
+
+2. Navigate into the project directory
+
+    ```bash
+    cd lunacal-frontend
+
+3. Install the dependencies
+
+    ```bash
+    npm install
+
+4. Start the development server
+
+    ```bash
+    npm run dev
+
+### The project will be running at http://localhost:5173.
